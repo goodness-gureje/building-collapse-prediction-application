@@ -69,4 +69,4 @@ In Lagos State, Nigeria, building collapses have been on the rise in recent year
 
 ## Citation
 If you use or refer to this work, please cite:  
-> *Gureje G.E.. "Design and Implementation of a Building Collapse Prediction Mobile Application: A Case Study of Lagos State." University of Lagos, 2021.*
+> *Gureje G.E., "Design and Implementation of a Building Collapse Prediction Mobile Application: A Case Study of Lagos State." University of Lagos, 2021.*
